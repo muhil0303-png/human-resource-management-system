@@ -1,6 +1,6 @@
-# HRMS System - IM24 Final Project
+# HRMS V2 System - IM24 Final Project
 
-### **_Human Resource Management_** System Using Node.js and MySQL
+### **_Human Resource Management System V2_** Using Node.js and MySQL
 
 A project requirement in accordance with IM24 Subject
 

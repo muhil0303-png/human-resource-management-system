@@ -35,7 +35,7 @@ export default function App() {
 			</GetValueContext.Provider>
 
 			<h1 className="App-container text-white text-center text-3xl p-8 font-semibold">
-				Human Resource Management System
+				Human Resource Management System V2
 			</h1>
 
 			<div className="bg-slate-50 p-8 my-0 mx-12 min-w-[920px] max-w-[1028px] rounded-2xl max-h-[28rem]">
